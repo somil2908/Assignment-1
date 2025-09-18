@@ -36,3 +36,18 @@ It demonstrates data preprocessing, feature selection, model training, evaluatio
 
 ### Confusion Matrix
 ![Confusion Matrix](images_of_output/confusion.png)
+
+---
+
+
+### Classification Report
+![Confusion Matrix](images_of_output/report.png)
+
+---
+
+
+### ROC Curve
+![Confusion Matrix](images_of_output/roc.png)
+
+---
+
