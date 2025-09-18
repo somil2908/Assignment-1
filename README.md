@@ -34,5 +34,4 @@ It demonstrates data preprocessing, feature selection, model training, evaluatio
 
 ---
 
-jupyter notebook heart_disease_prediction.ipynb
 
